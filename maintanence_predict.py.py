@@ -5,8 +5,8 @@ from datetime import timedelta
 from decimal import Decimal
 
 config = {
-    "user": "root",
-    "password" : "mySQLprogrammingclass_25",
+    "user": "",
+    "password" : "",
     "host" : "localhost",
     "database" : "dog_wash_V2",
 }

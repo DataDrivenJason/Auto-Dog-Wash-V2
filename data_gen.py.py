@@ -6,8 +6,8 @@ from datetime import datetime
 
 #mysql connection config
 config = {
-    "user": "root",
-    "password" : "mySQLprogrammingclass_25",
+    "user": "",
+    "password" : "",
     "host" : "localhost",
     "database" : "dog_wash_V2",
 }
